@@ -1,0 +1,7 @@
+<!--pages/jian/jian.wxml-->
+<!-- <text>pages/jian/jian.wxml</text> -->
+
+<image src='/images/tu1.png'/>
+
+<image src='/images/tu2.png' />
+<text style='color:red'>￥500</text>
